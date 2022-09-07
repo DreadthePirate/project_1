@@ -76,6 +76,8 @@ public class Point {
                 ", shift=" + shift +
                 ", rotate=" + rotate +
                 ", distance=" + distance +
+                //auto generate through code tab then auto generate toString()
+
                 '}';
     }
 }
