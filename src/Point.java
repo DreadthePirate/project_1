@@ -72,12 +72,6 @@ public class Point {
         return "Point{" +
                 "x=" + x +
                 ", y=" + y +
-                ", Point=" + Point +
-                ", shift=" + shift +
-                ", rotate=" + rotate +
-                ", distance=" + distance +
-                //auto generate through code tab then auto generate toString()
-
                 '}';
     }
 }
